@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "Vazir-FD";
+    font-style: normal;
+    font-weight: normal;
+    src: url('../webfonts/Vazir-Medium-FD.eot');
+    src: url('../webfonts/Vazir-Medium-FD.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../webfonts/Vazir-Medium-FD.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+    url('../webfonts/Vazir-Medium-FD.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../webfonts/Vazir-Medium-FD.ttf') format('truetype');
+}
+
+body {
+    font-family: "Vazir-FD", sans-serif;
+}
+.site-main{direction: rtl}
